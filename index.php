@@ -12,3 +12,6 @@ $city = "Kigali";
 
 echo $city . '<br>';
 echo $firstname;
+
+
+header("location: ./")
